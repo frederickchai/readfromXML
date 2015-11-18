@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReadXml</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- XML Schema-->
+    <string-array name="xml_schema">
+        <item>data</item>
+        <item>empresaId</item>
+        <item>empresaName</item>
+        <item>empresaDescripcion</item>
+        <item>empresaLocalizacion</item>
+        <item>programadores</item>
+        <item>programador</item>
+        <item>nombre</item>
+        <item>apellido</item>
+        <item>cedula</item>
+        <item>cargo</item>
+        <item>caracteristicas</item>
+        <item>caracteristicaI</item>
+        <item>caracteristicaII</item>
+        <item>caracteristicaIII</item>
+    </string-array>
+
+</resources>

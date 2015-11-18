@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <empresaId>123</empresaId>
+    <empresaName>CorpCaps</empresaName>
+    <empresaDescripcion>empresa de desarrollo</empresaDescripcion>
+    <empresaLocalizacion>Quito, Ecuador</empresaLocalizacion>>
+
+    <programadores>
+        <programador>
+            <nombre>Frederick</nombre>
+            <apellido>Chai</apellido>
+            <cedula>123456</cedula>
+            <cargo>Desarollador</cargo>
+        </programador>
+        <programador>
+            <nombre>Kevin</nombre>
+            <apellido>Calvopina</apellido>
+            <cedula>123456</cedula>
+            <cargo>Desarollador</cargo>
+        </programador>
+        <programador>
+            <nombre>Victor</nombre>
+            <apellido>Perez</apellido>
+            <cedula>123456</cedula>
+            <cargo>Desarollador</cargo>
+        </programador>
+    </programadores>
+
+    <caracteristicas>
+        <caracteristicaI>primera caracteristica</caracteristicaI>
+        <caracteristicaII>segunda caracteristica</caracteristicaII>
+        <caracteristicaIII>tercera caracteristica</caracteristicaIII>
+    </caracteristicas>
+
+
+</data>
